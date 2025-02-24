@@ -1,4 +1,4 @@
-# Project Title
+# MERN PROJECT
 
 ## Description
 This project was originally built using fetch requests for data handling. My responsibility was to refactor the project to use the MERN stack with GraphQL, Apollo, and mutations. Both the client and server parts of the application were updated to incorporate these technologies.
@@ -45,8 +45,12 @@ This project was originally built using fetch requests for data handling. My res
     npm run develop
     ```
 
+![screenshot](./Assets/Image.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Github: https://github.com/laristizabal02/MERN
+Deploy app: https://mern-9wvf.onrender.com/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
